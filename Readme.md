@@ -17,9 +17,6 @@ The ugly:
 -   python-patch-ng is only in unstable, so it wont be available
     until debian 12 is out.
 
--   node-semver is not available at all in debian (added as patch
-    in this package)
-
 # How:
 
 Download conans sourced, unpack them and add the `debian` directory
